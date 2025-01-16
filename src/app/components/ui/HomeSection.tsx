@@ -20,7 +20,7 @@ const HomeSection = () => {
                     svgOptions={{
                         duration: 15, // Slightly longer duration for smoother effect
                     }}
-                />
+                ><div></div></BackgroundLines>
             </div>
 
             <div className="relative z-10 w-full max-w-7xl px-4 sm:px-6 md:px-8 lg:px-10">
