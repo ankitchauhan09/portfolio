@@ -8,7 +8,7 @@ import AboutMeSection from "@/app/components/ui/AboutMeSection";
 
 export default function Home() {
   return (
-    <div className={`${styles.bg} min-h-screen w-full`}>
+    <div className={`${styles.bg} w-full`}>
       <Navbar />
       <HomeSection />
       <ProjectsSection />
